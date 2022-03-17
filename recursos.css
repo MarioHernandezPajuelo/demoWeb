@@ -1,0 +1,38 @@
+#cabecera{
+background-color: #0FC2C0;
+font-family: 'Noto Sans', sans-serif;
+font-size:20px;
+text-align:center;
+color:#F2BE22;
+width:100%;
+margin: 10px auto 10px auto;
+padding: 0px 5px 0px 5px;
+}
+#principal{
+display:flex;
+flex-direction:column;
+border: red 2px solid;
+width:100%;
+}
+
+#index{
+background-color:#9FC131;
+color:red;
+font-family: 'Noto Sans', sans-serif;
+padding: 10px 5px 10px 5px;
+width:100%;
+margin: 10px auto 10px auto;
+}
+
+#copy{
+background-color:#042940;
+color:white;
+font-family: 'Noto Sans', sans-serif;
+padding: 10px 5px 10px 5px;
+width:100%;
+margin: 10px auto 10px auto;
+}
+
+a:hover{
+color:red
+}
